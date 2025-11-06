@@ -118,4 +118,6 @@ with open("plant_disease_classifier.tflite", "wb") as f:
 
 ## 6. Streamlit app
 to run the program 
+```
 streamlit run streamlit_app.py
+```
